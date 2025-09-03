@@ -35,11 +35,11 @@ namespace TallerdeCisharp
              producto = a * b;
 
             //Salida de datos 
-            Console.WriteLine("el produtco es : " + (producto + 2));
+            Console.WriteLine("el produtco esss : " + (producto + 2));
             Console.WriteLine($"el produtco es {a}+{b}= {producto+2}");
 
             Console.WriteLine();
-            Console.WriteLine("Algoritmo area triangulo");
+            Console.WriteLine("Algoritmo area trianguloooo");
 
             EHERCICIOONE EJ1 = new EHERCICIOONE();
             EJ1.areatriangulo();
